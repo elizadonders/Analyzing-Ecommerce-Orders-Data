@@ -10,8 +10,9 @@ by their customers. Olist has three datasets related to the e-commerce store:
 2) They would like to see the range of payment amounts by payment type like credit card, debit card
  etc. They want to know if customers paying with credit card, have a higher payment value.
 3) They would like to see the payment value by payment type for every month year
-4) They would also like to see the total payment value by month
- Tools and Techniques
+4) They would also like to see the total payment value by month.
+
+Tools and Techniques
 Data Analysis: Utilized Python for data manipulation and analysis.
 Data Integration: Merged three distinct datasets and performed data cleaning.
 Visualization: Used pandas, matplotlib, and seaborn to aggregate and visualize data, culminating in a professional report.
